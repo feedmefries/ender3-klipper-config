@@ -38,3 +38,5 @@ queue_gcode_uploads = True
 enable_object_processing = True
 enable_inotify_warnings = True
 
+[webcam]
+
