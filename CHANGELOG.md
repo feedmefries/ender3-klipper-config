@@ -1,6 +1,13 @@
 # Changelog
 
 All notable changes to the Ender 3 Klipper firmware configuration will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## [1.1.0](https://github.com/sethlessard/ender3-klipper-config/compare/v1.0.1...v1.1.0) (2023-01-27)
+
+
+### Features
+
+* use machine-specific z_offset values for bl touch probe ([18e251e](https://github.com/sethlessard/ender3-klipper-config/commit/18e251e1404886cc7e77ef10f95cde3221aa4ee6))
+
 ### [1.0.1](https://github.com/sethlessard/ender3-klipper-config/compare/v1.0.0...v1.0.1) (2023-01-27)
 
 

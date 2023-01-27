@@ -1,6 +1,6 @@
 {
   "name": "ender_3_klipper_config",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Ender 3 klipper firmware configuration",
   "engines": {
     "node": "v16.19.0"
