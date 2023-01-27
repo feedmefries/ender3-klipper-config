@@ -1,6 +1,13 @@
 # Changelog
 
 All notable changes to the Ender 3 Klipper firmware configuration will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+### [1.0.1](https://github.com/sethlessard/ender3-klipper-config/compare/v1.0.0...v1.0.1) (2023-01-27)
+
+
+### Bug Fixes
+
+* park after print_cancel or print_end ([#5](https://github.com/sethlessard/ender3-klipper-config/issues/5)) ([8f8abad](https://github.com/sethlessard/ender3-klipper-config/commit/8f8abadc970ef2316a71b7ed5305b37fba698570))
+
 ## 1.0.0 (2023-01-27)
 
 
