@@ -1,1 +1,4 @@
 .variables.stb
+*.bkp
+node_modules/
+*.log
