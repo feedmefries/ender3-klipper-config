@@ -1,5 +1,9 @@
-.variables.stb
+# printer variable store
+.variables.stb 
+# configuration backup files
 *.bkp
+# node.js related files
 node_modules/
 *.log
-probe_offset.cfg
+# hide machine-specific configuration files like pins.cfg, probe_offset.cfg, etc.
+config/machine_specific/
