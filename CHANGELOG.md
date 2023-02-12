@@ -1,6 +1,25 @@
 # Changelog
 
 All notable changes to the Ender 3 Klipper firmware configuration will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## [1.2.0](https://github.com/feedmefries/ender3-klipper-config/compare/v1.1.0...v1.2.0) (2023-02-12)
+
+
+### Features
+
+* 4.2.2 board pins configuration template ([30d5d7f](https://github.com/feedmefries/ender3-klipper-config/commit/30d5d7ff0ebdbf0de0b96fe7456aec7203501c13))
+* 4.2.2 stock display configuration template ([c50ea37](https://github.com/feedmefries/ender3-klipper-config/commit/c50ea378fd0cdff4b69350de762dbc3f92766418))
+* add config/machine_specific dir for machine-specific configuration files ([1bd9b84](https://github.com/feedmefries/ender3-klipper-config/commit/1bd9b84eb2f0d32a7974cc7d0f5596a555c1192f))
+* output status message to display by default ([af30490](https://github.com/feedmefries/ender3-klipper-config/commit/af30490aa79417346cef5b689bca3e58db9a7a98))
+* safe firmware restarting ([58059fb](https://github.com/feedmefries/ender3-klipper-config/commit/58059fbb2d33b64b09718385c21ad7a7020ca44d))
+* set bed mesh level probe count to 8x8 ([53e1164](https://github.com/feedmefries/ender3-klipper-config/commit/53e116429d609c5c60155af49c3325b52f67397c))
+* v4.2.7 board pin configuration template ([ecaf22d](https://github.com/feedmefries/ender3-klipper-config/commit/ecaf22d0341ef00b25b56fcaf591a26c73866b28))
+
+
+### Bug Fixes
+
+* cool hotend with toolhead fan when cancelling or ending a print ([b471dcb](https://github.com/feedmefries/ender3-klipper-config/commit/b471dcb32daa0621b09daba3bfb26a30e4fc0465))
+* increase end print retraction to 5mm, pause print retraction to 2mm ([281d037](https://github.com/feedmefries/ender3-klipper-config/commit/281d037ca377bcf96e9e383afcb8c7ed7407e577))
+
 ## [1.1.0](https://github.com/sethlessard/ender3-klipper-config/compare/v1.0.1...v1.1.0) (2023-01-27)
 
 
