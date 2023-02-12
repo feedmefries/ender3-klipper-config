@@ -1,6 +1,15 @@
 # Changelog
 
 All notable changes to the Ender 3 Klipper firmware configuration will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## [1.2.1](https://github.com/feedmefries/ender3-klipper-config/compare/v1.2.0...v1.2.1) (2023-02-12)
+
+
+### Bug Fixes
+
+* only clear bed if an object was freshly printed ([8ca0a64](https://github.com/feedmefries/ender3-klipper-config/commit/8ca0a64dd8eb0bfea4f3bfc6986a9e0edc90b371))
+* rehome before unload_filament and load_filament if necessary ([3f328fc](https://github.com/feedmefries/ender3-klipper-config/commit/3f328fc3347c1fa4b17741d35305227c9ca696b5))
+* set blower fan to 100% when running load_filament or unload_filament ([cd39307](https://github.com/feedmefries/ender3-klipper-config/commit/cd39307fb8ad31ce601c158f159caac1f8f88c87))
+
 ## [1.2.0](https://github.com/feedmefries/ender3-klipper-config/compare/v1.1.0...v1.2.0) (2023-02-12)
 
 
