@@ -2,14 +2,8 @@
 
 ## Initial Setup
 
-Ensure you have a `probe_offset.cfg` configuration file with
-the following contents:
-
-```cfg
-[bltouch]
-z_offset: <your Z-offset value here>
-# i.e. z_offset: 0.300
-```
+See the readme in the [machine_specific](./config/machine_specific/README.md) 
+directory forinstructions on how to setup your printer.
 
 ## Changelog
 

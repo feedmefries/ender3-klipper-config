@@ -4,6 +4,13 @@ This directory contains machine-specific configuration files. If you have not do
 for your board version from the [templates](../../templates) directory to this directory. You should at least have the following files:
 
 * `pins.cfg`: This file contains the pin mappings for your board. ([4.2.2](../../templates//board-4.2.2/pins.cfg) [4.2.7](../../templates/board-4.2.7/pins.cfg))
+- `probe_offset.cfg`: This contains the offset value for your probe.
+
+```cfg
+[bltouch]
+z_offset: <your Z-offset value here>
+# i.e. z_offset: 0.300
+```
 
 You may also want to copy the following files if supported by your board:
 
