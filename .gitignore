@@ -3,4 +3,4 @@
 # configuration backup files
 *.bkp
 # hide machine-specific configuration files like pins.cfg, probe_offset.cfg, etc.
-config/machine_specific/
+config/machine_specific/*.cfg
