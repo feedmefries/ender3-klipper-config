@@ -1,6 +1,13 @@
 # Changelog
 
 All notable changes to the Ender 3 Klipper firmware configuration will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## [1.3.0](https://github.com/feedmefries/ender3-klipper-config/compare/v1.2.1...v1.3.0) (2023-02-18)
+
+
+### Features
+
+* local-only moonraker authorization configuration ([50a395f](https://github.com/feedmefries/ender3-klipper-config/commit/50a395f18e1c23200f81592bd03a2715cc1c726a))
+
 ## [1.2.1](https://github.com/feedmefries/ender3-klipper-config/compare/v1.2.0...v1.2.1) (2023-02-12)
 
 
