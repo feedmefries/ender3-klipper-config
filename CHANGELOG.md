@@ -1,6 +1,14 @@
 # Changelog
 
 All notable changes to the Ender 3 Klipper firmware configuration will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## [1.3.1](https://github.com/feedmefries/ender3-klipper-config/compare/v1.3.0...v1.3.1) (2023-02-21)
+
+
+### Bug Fixes
+
+* move to y-max before idle timeout ([d6a1b95](https://github.com/feedmefries/ender3-klipper-config/commit/d6a1b9577abb929e2a1e07a769546a2468104533))
+* set machine idle timeout to 15 minutes ([3cf9cf4](https://github.com/feedmefries/ender3-klipper-config/commit/3cf9cf4734b37314067bc4aa08f58e0c3c463345))
+
 ## [1.3.0](https://github.com/feedmefries/ender3-klipper-config/compare/v1.2.1...v1.3.0) (2023-02-18)
 
 
